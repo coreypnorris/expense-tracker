@@ -7,3 +7,25 @@ table, tr, td {
 .money {
   text-align: right;
 }
+
+.items {
+  text-align: left;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+#show-purchase {
+  display: none;
+}
+ 
+.category {
+  cursor: pointer;
+  color: #0088cc;
+}
+ 
+.category:hover {
+  text-decoration: underline;
+}
